@@ -1,12 +1,2 @@
 AD
-hello.class
-loops.class
-arrays.class
-conditions.class
-functions.class
-task1.class
-task2.class
-arraylist.class
-hashMap.class
-task3.class
-linkedlist.class
+*.class
