@@ -8,6 +8,7 @@ public class task5 {
             s.AddResult("Android", 80);
             s.AddResult("AI", 70);
             s.AddResult("ML", 60);
+            s.AddResult("ToA&FL", 48);
            System.out.println("Your CGPA is "+s.GetCgpa());
            HashMap<String,Character> grades= s.GetGrades();
            System.out.println("----------------Grades-----------------");
