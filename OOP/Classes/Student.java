@@ -74,6 +74,10 @@ public class Student {
                 cc+=2.5*3;
                 total_cd+=3;
               }
+              else{
+                cc+=1.0*3;
+                total_cd+=3;
+              }
         }
         return (cc/total_cd);
 }
