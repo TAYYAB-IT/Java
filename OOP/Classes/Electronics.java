@@ -7,11 +7,11 @@ public class Electronics {
     return this.status;
    }
    public void On(){
-    System.out.print((this.status)?" is Already ON":" is ON\n");
+    System.out.print((this.status)?" is Already ON\n":" is ON\n");
     this.status=true;
    }
    public void Off(){
-    System.out.print((!this.status)?" is Already OFF":" is OFF\n");
+    System.out.print((!this.status)?" is Already OFF\n":" is OFF\n");
     this.status=false;
    }
    public void next(){
