@@ -10,7 +10,7 @@ public class task6 {
           }
           //device.next();  // Current channel is 1
           device.prev();  // current channel is 99
-          dec
+          
           
           device.Off();  // tv is off
           
