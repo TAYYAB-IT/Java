@@ -8,8 +8,9 @@ public class task6 {
           if(!device.isOn()){
            device.On();    // tv is on
           }
-          device.next();  // Current channel is 2
+          //device.next();  // Current channel is 1
           device.prev();  // current channel is 99
+          dec
           
           device.Off();  // tv is off
           
