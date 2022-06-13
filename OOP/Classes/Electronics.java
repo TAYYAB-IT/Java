@@ -1,4 +1,4 @@
-package Classes;
+package OOP.Classes;
 
 public class Electronics {
    protected Boolean status=false;

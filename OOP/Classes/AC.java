@@ -1,4 +1,4 @@
-package Classes;
+package OOP.Classes;
 
 public class AC extends Electronics{
     public AC(){this.currunt_value=16;}

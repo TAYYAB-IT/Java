@@ -1,4 +1,4 @@
-package Classes;
+package OOP.Classes;
 
 public class TV extends Electronics {
 public TV(){this.currunt_value=0;}

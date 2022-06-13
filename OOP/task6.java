@@ -1,9 +1,8 @@
-import Classes.*;
-
+import OOP.Classes.*;
 public class task6 {
     public static void main(String[] args) {
          
-          Electronics device = new TV();
+          Electronics device=new Electronics();
           
           if(!device.isOn()){
            device.On();    // tv is on
